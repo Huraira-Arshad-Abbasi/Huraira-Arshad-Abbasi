@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Huraira Arshad
 
-<!--
-**Huraira-Arshad-Abbasi/Huraira-Arshad-Abbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineering Student
 
-Here are some ideas to get you started:
+I am a Software Engineering student from Pakistan passionate about Web Development, Mobile Apps, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- React Native
+- Node.js
+- Express
+- MongoDB
+- Next.js
+
+### 📚 Currently Learning
+
+- React Native
+- TypeScript
+- Backend Architecture
+
+### 📫 Connect with me
+
+- Portfolio: https://huraira-arshad-abbasi.vercel.app
+- LinkedIn: https://www.linkedin.com/in/huraira-arshad-abbasi
