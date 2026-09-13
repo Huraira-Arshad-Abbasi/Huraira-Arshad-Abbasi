@@ -1,26 +1,8 @@
 # Hi 👋 I'm Huraira Arshad
 
-## 💻 Software Engineering Student
+## 💻 Full Stack Engineer
 
-I am a Software Engineering student from Pakistan passionate about Web Development, Mobile Apps, and AI.
-
-### 🚀 Technologies
-
-- HTML
-- CSS
-- JavaScript
-- React
-- React Native
-- Node.js
-- Express
-- MongoDB
-- Next.js
-
-### 📚 Currently Learning
-
-- React Native
-- TypeScript
-- Backend Architecture
+I am a Full Stack Engineer from Pakistan passionate about Web Development, Mobile Apps, and AI.
 
 ### 📫 Connect with me
 
