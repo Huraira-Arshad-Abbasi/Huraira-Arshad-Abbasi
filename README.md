@@ -1,8 +1,12 @@
 # Hi 👋 I'm Huraira Arshad
 
-## 💻 Full Stack Engineer
+## 💻 Full Stack Engineer | MERN | FastAPI
 
-I am a Full Stack Engineer from Pakistan passionate about Web Development, Mobile Apps, and AI.
+Turning your ideas into working solutions.
+
+**Share your requirement — I'll handle everything else.**
+
+From a rough idea to a deployed product — I design, build, and ship full-stack web applications end to end. Fast, clean, and production-ready. Just tell me what you need, and I'll take it from there.
 
 ### 📫 Connect with me
 
